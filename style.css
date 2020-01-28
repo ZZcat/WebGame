@@ -1,0 +1,11 @@
+#canvas {
+	border: 5px solid navy;
+	background-color: lightblue;
+	padding-left: 0;
+	padding-right: 0;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;	
+	height: 300px;
+	width: 700px;
+}
